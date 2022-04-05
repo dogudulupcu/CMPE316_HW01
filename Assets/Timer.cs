@@ -27,7 +27,7 @@ private float StartTime;
         float t= Time.time - StartTime;
          minutes = ((int)t / 60).ToString();
          seconds = (t % 60).ToString("f2");
-        timerText.text = minutes + ":" + seconds;
+        
         }
 
     }
