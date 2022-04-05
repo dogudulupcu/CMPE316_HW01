@@ -1,0 +1,3 @@
+# CMPE316_HW01
+Ali Doğukan Dulupçu
+ID:45739307334
